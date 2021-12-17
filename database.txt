@@ -1,0 +1,1 @@
+create database "sms" then import the dataabse
